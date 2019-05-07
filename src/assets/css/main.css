@@ -1,0 +1,21 @@
+button,
+span,
+input {
+  margin-left: 10px;
+}
+
+ul {
+  margin: 10px 0;
+}
+
+left {
+  float: left;
+  display: inline-block;
+  width: 200px;
+}
+
+right {
+  float: right;
+  display: inline-block;
+  width: 300px;
+}
